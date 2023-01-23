@@ -1,1 +1,1 @@
-# Chapter 1 - Bootstraping your Ruby literacy
+## Chapter 1 - Bootstraping your Ruby literacy
